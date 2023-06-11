@@ -10,4 +10,6 @@ At the moment, only a part of the metal(III) halides dataset is presented, it wi
 
 ## What's Presented Here
 
+## How to Use
+
 ## What's New
