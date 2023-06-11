@@ -5,11 +5,12 @@ This work is dedicated to solve QSPR task for Band Gap (BG) of hybrid antimony(I
 At the moment, only a part of the hybrid metal(III) halides dataset is presented, it will be fully available after the article is rejected.
 
 ## Issiue
-
+Coming soon
 ## Data
-
+Coming soon
 ## What's Presented Here
-
+Coming soon
 ## How to Use
-
+Coming soon
 ## What's New
+Coming soon
