@@ -14,3 +14,7 @@ Coming soon
 Coming soon
 ## What's New
 Coming soon
+## About Authors
+Andrey Bykov, Ph.D. student, Chemistry Department Moscow State University (bykov.andrey.sw@gmail.com).
+## Funding
+This research was funded by "Non-commercial Foundation for the Advancement of Science and Education INTELLECT".
