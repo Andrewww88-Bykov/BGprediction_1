@@ -1,0 +1,87 @@
+####################################
+42;RefCode:ENIKIV01:C5 H7 Br4 N2 Sb1
+Author(s): M.Hashimoto,S.Hashimoto,H.Terao,M.Kuma,H.Niki,H.Ino
+Journal: Z.NATURFORSCH.,A:PHYS.SCI. Year: 2000 Volume: 55 Number:  Pages: 167
+####################################
+A=  13.842  B=  13.778  C=   7.555
+Alpha=   90.00  Beta=  121.58  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.2219
+Epsilon=  1.0E+0000
+
+Distances
+1 Br1-Sb1.7     2.8190(  0.5000  0.0820  0.7500)( 0, 0, 0)
+2 Br1-Sb1.7     3.2219(  0.5000  0.9180  0.2500)( 0,-1, 0)
+
+Angles
+1 Sb1.7-Br1-Sb1.7  93.307( 0, 0, 0)( 0,-1, 0)
+
+Sphere packing (Class 1)
+
+1 Br2-Sb1.7     2.5630(  0.5000  0.0820  0.7500)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Sb1-Br2.6     2.5630(  0.6286  0.2085  0.7265)( 0, 0, 0)
+2 Sb1-Br2.6     2.5630(  0.3714  0.2085  0.7735)( 0, 0, 0)
+3 Sb1-Br1.5     2.8190(  0.6445  0.0824  0.1859)( 0, 0, 1)
+4 Sb1-Br1.5     2.8190(  0.3555  0.0824  0.3141)( 0, 0, 0)
+5 Sb1-Br1.5     3.2219(  0.6445  0.9176  0.6859)( 0,-1, 0)
+6 Sb1-Br1.5     3.2219(  0.3555  0.9176  0.8141)( 0,-1, 0)
+
+Angles
+1 Br2.6-Sb1-Br2.6  94.308( 0, 0, 0)( 0, 0, 0)
+2 Br2.6-Sb1-Br1.5  89.196( 0, 0, 0)( 0, 0, 1)
+3 Br2.6-Sb1-Br1.5  90.652( 0, 0, 0)( 0, 0, 0)
+4 Br2.6-Sb1-Br1.5  87.668( 0, 0, 0)( 0,-1, 0)
+5 Br2.6-Sb1-Br1.5 175.460( 0, 0, 0)( 0,-1, 0)
+6 Br2.6-Sb1-Br1.5  90.652( 0, 0, 0)( 0, 0, 1)
+7 Br2.6-Sb1-Br1.5  89.196( 0, 0, 0)( 0, 0, 0)
+8 Br2.6-Sb1-Br1.5 175.460( 0, 0, 0)( 0,-1, 0)
+9 Br2.6-Sb1-Br1.5  87.668( 0, 0, 0)( 0,-1, 0)
+10 Br1.5-Sb1-Br1.5 179.776( 0, 0, 1)( 0, 0, 0)
+11 Br1.5-Sb1-Br1.5  93.465( 0, 0, 1)( 0,-1, 0)
+12 Br1.5-Sb1-Br1.5  86.693( 0, 0, 1)( 0,-1, 0)
+13 Br1.5-Sb1-Br1.5  86.693( 0, 0, 0)( 0,-1, 0)
+14 Br1.5-Sb1-Br1.5  93.465( 0, 0, 0)( 0,-1, 0)
+15 Br1.5-Sb1-Br1.5  90.657( 0,-1, 0)( 0,-1, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Br - 16
+  Sb - 4
+
+Order
+Atom	Br	Sb
+Br1	Nan	0.71206
+Br2	Nan	0.71206
+Sb1	0.50350	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Br-Sb
+	0.00000
+
+CosDist(interatomic)
+Atom	Br1	Br2	Sb1	Total
+Br1	Nan	Nan	Nan	Nan
+Br2	Nan	Nan	Nan	Nan
+Sb1	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Br-Br	Br-Sb	Sb-Br	Sb-Sb
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 8.27 sec.

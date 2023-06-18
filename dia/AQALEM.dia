@@ -1,0 +1,32 @@
+##################################
+7;RefCode:AQALEM:C9 H14 Cl4 N1 Sb1
+Author(s): Jiahua Guo,Yuqi Zhang,Shouwen Jin,Xiaoyun Ye,Kaikai Hu,Weiqiang Xu,Daqi Wang
+Journal: Inorg.Nano-Metal Chem. Year: 2021 Volume:  Number:  Pages: 1
+##################################
+A=  13.167  B=  15.100  C=   8.120
+Alpha=   90.00  Beta=  111.18  Gamma=   90.00
+Rmin= 0.0000  Rmax= 0.0000
+
+Distances
+1 Cl2-Sb1.4     2.4468(  0.4583  0.9321  0.6054)( 0, 0, 0)
+
+Angles
+
+1 Cl3-Sb1.4     2.3610(  0.4583  0.9321  0.6054)( 0, 0, 0)
+
+Angles
+
+1 Cl4-Sb1.4     2.3992(  0.4583  0.9321  0.6054)( 0, 0, 0)
+
+Angles
+
+1 Sb1-Cl3.4     2.3610(  0.3406  0.8093  0.5087)( 0, 0, 0)
+2 Sb1-Cl4.4     2.3992(  0.5765  0.8495  0.8529)( 0, 0, 0)
+3 Sb1-Cl2.4     2.4468(  0.5595  0.8907  0.4167)( 0, 0, 0)
+
+Angles
+1 Cl3.4-Sb1-Cl4.4  91.124( 0, 0, 0)( 0, 0, 0)
+2 Cl3.4-Sb1-Cl2.4  91.836( 0, 0, 0)( 0, 0, 0)
+3 Cl4.4-Sb1-Cl2.4  93.258( 0, 0, 0)( 0, 0, 0)
+
+Elapsed time: 16.68 sec.

@@ -1,0 +1,105 @@
+####################################
+30;RefCode:COXZUN01:C5 H7 Bi1 Br4 N2
+Author(s): L.Senior,Anthony Linden
+Journal: Acta Crystallogr.,Sect.C:Cryst.Struct.Chem. Year: 2020 Volume: 76 Number:  Pages: 562
+####################################
+A=  11.662  B=  14.081  C=   7.352
+Alpha=   90.00  Beta=   94.71  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.1822
+Epsilon=  1.0E+0000
+
+Distances
+1 Br1-Bi1.19    2.7079(  0.2645  0.3348  0.5239)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Br2-Bi1.19    2.6431(  0.2645  0.3348  0.5239)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Br3-Bi1.19    2.8846(  0.2645  0.3348  0.5239)( 0, 0, 0)
+2 Br3-Bi1.19    3.1822(  0.2645  0.1652  0.0239)( 0, 0, 1)
+
+Angles
+1 Bi1.19-Br3-Bi1.19  92.409( 0, 0, 0)( 0, 0, 1)
+
+Sphere packing (Class 1)
+
+1 Br4-Bi1.19    2.8787(  0.2645  0.3348  0.5239)( 0, 0, 0)
+2 Br4-Bi1.19    3.0620(  0.2645  0.1652  0.0239)( 0, 0, 0)
+
+Angles
+1 Bi1.19-Br4-Bi1.19  95.063( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+1 Bi1-Br2.16    2.6431(  0.4162  0.4510  0.6926)( 0, 0, 0)
+2 Bi1-Br1.15    2.7079(  0.1350  0.4778  0.3701)( 0, 0, 0)
+3 Bi1-Br4.18    2.8787(  0.4003  0.3282  0.2144)( 0, 0, 0)
+4 Bi1-Br3.17    2.8846(  0.1199  0.3321  0.8238)( 0, 0, 0)
+5 Bi1-Br4.18    3.0620(  0.4003  0.1718  0.7144)( 0, 0, 0)
+6 Bi1-Br3.17    3.1822(  0.1199  0.1679  0.3238)( 0, 0, 0)
+
+Angles
+1 Br2.16-Bi1-Br1.15  93.701( 0, 0, 0)( 0, 0, 0)
+2 Br2.16-Bi1-Br4.18  90.018( 0, 0, 0)( 0, 0, 0)
+3 Br2.16-Bi1-Br3.17  93.451( 0, 0, 0)( 0, 0, 0)
+4 Br2.16-Bi1-Br4.18  87.020( 0, 0, 0)( 0, 0, 0)
+5 Br2.16-Bi1-Br3.17 169.463( 0, 0, 0)( 0, 0, 0)
+6 Br1.15-Bi1-Br4.18  91.047( 0, 0, 0)( 0, 0, 0)
+7 Br1.15-Bi1-Br3.17  89.314( 0, 0, 0)( 0, 0, 0)
+8 Br1.15-Bi1-Br4.18 176.605( 0, 0, 0)( 0, 0, 0)
+9 Br1.15-Bi1-Br3.17  95.755( 0, 0, 0)( 0, 0, 0)
+10 Br4.18-Bi1-Br3.17 176.482( 0, 0, 0)( 0, 0, 0)
+11 Br4.18-Bi1-Br4.18  92.271( 0, 0, 0)( 0, 0, 0)
+12 Br4.18-Bi1-Br3.17  85.181( 0, 0, 0)( 0, 0, 0)
+13 Br3.17-Bi1-Br4.18  87.331( 0, 0, 0)( 0, 0, 0)
+14 Br3.17-Bi1-Br3.17  91.301( 0, 0, 0)( 0, 0, 0)
+15 Br4.18-Bi1-Br3.17  83.810( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Br - 16
+  Bi - 4
+
+Order
+Atom	Br	Bi
+Br1	Nan	0.50518
+Br2	Nan	0.50518
+Br3	Nan	0.50518
+Br4	Nan	0.50518
+Bi1	0.50518	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Br-Bi
+	0.00000
+
+CosDist(interatomic)
+Atom	Br1	Br2	Br3	Br4	Bi1	Total
+Br1	Nan	Nan	Nan	Nan	Nan	Nan
+Br2	Nan	Nan	Nan	Nan	Nan	Nan
+Br3	Nan	Nan	Nan	Nan	Nan	Nan
+Br4	Nan	Nan	Nan	Nan	Nan	Nan
+Bi1	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Br-Br	Br-Bi	Bi-Br	Bi-Bi
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 15.57 sec.

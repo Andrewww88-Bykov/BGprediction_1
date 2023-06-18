@@ -1,0 +1,105 @@
+##################################
+40;RefCode:EJUFIY:C4 H7 Bi1 Cl4 N2
+Author(s): D.J.Williams,W.T.Pennington,D.VanDerveer,J.T.Anderton,K.M.White
+Journal: J.Chem.Cryst. Year: 2003 Volume: 33 Number:  Pages: 465
+##################################
+A=  11.153  B=  12.964  C=   7.286
+Alpha=   90.00  Beta=   94.32  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.0570
+Epsilon=  1.0E+0000
+
+Distances
+1 Cl1-Bi1.17    2.7345(  0.2533  0.3336  0.5063)( 0, 0, 0)
+2 Cl1-Bi1.17    3.0570(  0.2533  0.1664  0.0063)( 0, 0, 1)
+
+Angles
+1 Bi1.17-Cl1-Bi1.17  93.909( 0, 0, 0)( 0, 0, 1)
+
+Sphere packing (Class 1)
+
+1 Cl2-Bi1.17    2.7237(  0.2533  0.3336  0.5063)( 0, 0, 0)
+2 Cl2-Bi1.17    2.9505(  0.2533  0.1664  0.0063)( 0, 0, 0)
+
+Angles
+1 Bi1.17-Cl2-Bi1.17  96.568( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+1 Cl3-Bi1.17    2.5567(  0.2533  0.3336  0.5063)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Cl4-Bi1.17    2.4883(  0.2533  0.3336  0.5063)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Bi1-Cl4.16    2.4883(  0.3627  0.4900  0.6250)( 0, 0, 0)
+2 Bi1-Cl3.15    2.5567(  0.1079  0.4441  0.3019)( 0, 0, 0)
+3 Bi1-Cl2.14    2.7237(  0.4097  0.3039  0.2415)( 0, 0, 0)
+4 Bi1-Cl1.13    2.7345(  0.1146  0.3397  0.8000)( 0, 0, 0)
+5 Bi1-Cl2.14    2.9505(  0.4097  0.1961  0.7415)( 0, 0, 0)
+6 Bi1-Cl1.13    3.0570(  0.1146  0.1603  0.3000)( 0, 0, 0)
+
+Angles
+1 Cl4.16-Bi1-Cl3.15  91.061( 0, 0, 0)( 0, 0, 0)
+2 Cl4.16-Bi1-Cl2.14  92.163( 0, 0, 0)( 0, 0, 0)
+3 Cl4.16-Bi1-Cl1.13  89.751( 0, 0, 0)( 0, 0, 0)
+4 Cl4.16-Bi1-Cl2.14  92.135( 0, 0, 0)( 0, 0, 0)
+5 Cl4.16-Bi1-Cl1.13 170.561( 0, 0, 0)( 0, 0, 0)
+6 Cl3.15-Bi1-Cl2.14  94.511( 0, 0, 0)( 0, 0, 0)
+7 Cl3.15-Bi1-Cl1.13  93.902( 0, 0, 0)( 0, 0, 0)
+8 Cl3.15-Bi1-Cl2.14 176.504( 0, 0, 0)( 0, 0, 0)
+9 Cl3.15-Bi1-Cl1.13  81.389( 0, 0, 0)( 0, 0, 0)
+10 Cl2.14-Bi1-Cl1.13 171.334( 0, 0, 0)( 0, 0, 0)
+11 Cl2.14-Bi1-Cl2.14  86.786( 0, 0, 0)( 0, 0, 0)
+12 Cl2.14-Bi1-Cl1.13  82.852( 0, 0, 0)( 0, 0, 0)
+13 Cl1.13-Bi1-Cl2.14  84.697( 0, 0, 0)( 0, 0, 0)
+14 Cl1.13-Bi1-Cl1.13  96.373( 0, 0, 0)( 0, 0, 0)
+15 Cl2.14-Bi1-Cl1.13  95.567( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Cl - 16
+  Bi - 4
+
+Order
+Atom	Cl	Bi
+Cl1	Nan	0.51675
+Cl2	Nan	0.51675
+Cl3	Nan	0.51675
+Cl4	Nan	0.51675
+Bi1	0.51675	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Cl-Bi
+	0.00000
+
+CosDist(interatomic)
+Atom	Cl1	Cl2	Cl3	Cl4	Bi1	Total
+Cl1	Nan	Nan	Nan	Nan	Nan	Nan
+Cl2	Nan	Nan	Nan	Nan	Nan	Nan
+Cl3	Nan	Nan	Nan	Nan	Nan	Nan
+Cl4	Nan	Nan	Nan	Nan	Nan	Nan
+Bi1	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Cl-Cl	Cl-Bi	Bi-Cl	Bi-Bi
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 13.94 sec.

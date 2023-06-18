@@ -1,0 +1,48 @@
+##################################
+100;RefCode:POYGIW:C5 H9 Bi1 I4 N4
+Author(s): S.Pandey,T.Chattopadhyay,S.Dev,Y.Patil,C.L.Carpenter-Warren,C.Sinha
+Journal: POLYHEDRON Year: 2020 Volume: 179 Number:  Pages: 114335
+##################################
+A=  12.017  B=  15.326  C=   7.810
+Alpha=   90.00  Beta=   90.00  Gamma=   90.00
+Rmin= 0.0000  Rmax= 0.0000
+Epsilon=  1.0E+0000
+
+Distances
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  I - 16
+  Bi - 4
+
+Order
+Atom	I	Bi
+I1	0.69349	0.69349
+I2	0.69349	0.69349
+Bi1	0.49037	0.49037
+
+Total local order: 1.25157
+Total global order: 1.55069
+
+CosDist(interspecies)
+Atom	I-Bi
+	0.00000
+
+CosDist(interatomic)
+Atom	I1	I2	Bi1	Total
+I1	0.00000	0.00000	0.00000	0.00000
+I2	0.00000	0.00000	0.00000	0.00000
+Bi1	0.00000	0.00000	0.00000	0.00000
+
+Total CosDist: 0.00000
+
+All species
+Dist.	I-I	I-Bi	Bi-I	Bi-Bi
+0.00	-1.00000	-1.00000	-1.00000	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+There are no interatomic distances in this range
+Elapsed time: 11.37 sec.

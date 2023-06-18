@@ -1,0 +1,105 @@
+######################################
+121;RefCode:RAZMEN:C4 H20 I8 N2 O4 Sb2
+Author(s): M.Bujak
+Journal: Acta Crystallogr.,Sect.B:Struct.Sci.,Cryst.Eng. and Mat. Year: 2017 Volume: 73 Number:  Pages: 432
+######################################
+A=   7.444  B=  13.095  C=  13.794
+Alpha=   90.00  Beta=   95.16  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.3081
+Epsilon=  1.0E+0000
+
+Distances
+1 Sb1-I1.20     2.8145(  0.6307  0.3191  0.2012)( 0, 0, 0)
+2 Sb1-I3.22     2.8732(  0.9407  0.5782  0.2578)( 0, 0, 0)
+3 Sb1-I4.23     3.0066(  0.4428  0.6164  0.1047)( 0, 0, 0)
+4 Sb1-I2.21     3.0361(  0.0899  0.3488  0.0585)( 1, 0, 0)
+5 Sb1-I4.23     3.2202(  0.5572  0.3836  0.8953)( 0, 0,-1)
+6 Sb1-I2.21     3.3081(  0.9101  0.6512  0.9415)( 0, 0,-1)
+
+Angles
+1 I1.20-Sb1-I3.22  93.336( 0, 0, 0)( 0, 0, 0)
+2 I1.20-Sb1-I4.23  95.391( 0, 0, 0)( 0, 0, 0)
+3 I1.20-Sb1-I2.21  89.259( 0, 0, 0)( 1, 0, 0)
+4 I1.20-Sb1-I4.23  90.353( 0, 0, 0)( 0, 0,-1)
+5 I1.20-Sb1-I2.21 174.486( 0, 0, 0)( 0, 0,-1)
+6 I3.22-Sb1-I4.23  89.142( 0, 0, 0)( 0, 0, 0)
+7 I3.22-Sb1-I2.21  92.902( 0, 0, 0)( 1, 0, 0)
+8 I3.22-Sb1-I4.23 175.661( 0, 0, 0)( 0, 0,-1)
+9 I3.22-Sb1-I2.21  91.853( 0, 0, 0)( 0, 0,-1)
+10 I4.23-Sb1-I2.21 174.807( 0, 0, 0)( 1, 0, 0)
+11 I4.23-Sb1-I4.23  88.238( 0, 0, 0)( 0, 0,-1)
+12 I4.23-Sb1-I2.21  86.543( 0, 0, 0)( 0, 0,-1)
+13 I2.21-Sb1-I4.23  89.426( 1, 0, 0)( 0, 0,-1)
+14 I2.21-Sb1-I2.21  88.619( 1, 0, 0)( 0, 0,-1)
+15 I4.23-Sb1-I2.21  84.538( 0, 0,-1)( 0, 0,-1)
+
+Sphere packing (Class 1)
+
+1 I1-Sb1.19    2.8145(  0.7622  0.4785  0.0903)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 I2-Sb1.19    3.0361(  0.7622  0.4785  0.0903)(-1, 0, 0)
+2 I2-Sb1.19    3.3081(  0.2378  0.5215  0.9097)( 0, 0,-1)
+
+Angles
+1 Sb1.19-I2-Sb1.19  91.381(-1, 0, 0)( 0, 0,-1)
+
+Sphere packing (Class 1)
+
+1 I3-Sb1.19    2.8732(  0.7622  0.4785  0.0903)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 I4-Sb1.19    3.0066(  0.7622  0.4785  0.0903)( 0, 0, 0)
+2 I4-Sb1.19    3.2202(  0.2378  0.5215  0.9097)( 0, 0,-1)
+
+Angles
+1 Sb1.19-I4-Sb1.19  91.762( 0, 0, 0)( 0, 0,-1)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Sb - 4
+  I - 16
+
+Order
+Atom	Sb	I
+Sb1	Nan	0.49625
+I1	0.49625	Nan
+I2	0.49625	Nan
+I3	0.49625	Nan
+I4	0.49625	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Sb-I
+	0.00000
+
+CosDist(interatomic)
+Atom	Sb1	I1	I2	I3	I4	Total
+Sb1	Nan	Nan	Nan	Nan	Nan	Nan
+I1	Nan	Nan	Nan	Nan	Nan	Nan
+I2	Nan	Nan	Nan	Nan	Nan	Nan
+I3	Nan	Nan	Nan	Nan	Nan	Nan
+I4	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Sb-Sb	Sb-I	I-Sb	I-I
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 15.01 sec.

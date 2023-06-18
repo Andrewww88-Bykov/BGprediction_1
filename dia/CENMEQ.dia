@@ -1,0 +1,105 @@
+####################################
+16;RefCode:CENMEQ:C6 H9 I4 N2 O1 Sb1
+Author(s): A.J.Dennington,M.T.Weller
+Journal: DALTON TRANS. Year: 2018 Volume: 47 Number:  Pages: 3469
+####################################
+A=  10.551  B=   7.620  C=  19.996
+Alpha=   90.00  Beta=   95.34  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.2761
+Epsilon=  1.0E+0000
+
+Distances
+1 Sb1-I4.23     2.8385(  0.3964  0.6297  0.1747)( 0, 0, 0)
+2 Sb1-I3.22     2.8559(  0.1622  0.8949  0.0280)( 0, 0, 0)
+3 Sb1-I1.20     2.9886(  0.5379  0.0773  0.1042)( 0, 1, 0)
+4 Sb1-I2.21     3.0683(  0.3077  0.4229  0.9715)( 0, 0,-1)
+5 Sb1-I2.21     3.2656(  0.6923  0.5771  0.0285)( 0, 0, 0)
+6 Sb1-I1.20     3.2761(  0.4621  0.9227  0.8958)( 0, 0,-1)
+
+Angles
+1 I4.23-Sb1-I3.22  94.348( 0, 0, 0)( 0, 0, 0)
+2 I4.23-Sb1-I1.20  87.478( 0, 0, 0)( 0, 1, 0)
+3 I4.23-Sb1-I2.21  95.552( 0, 0, 0)( 0, 0,-1)
+4 I4.23-Sb1-I2.21  94.430( 0, 0, 0)( 0, 0, 0)
+5 I4.23-Sb1-I1.20 174.117( 0, 0, 0)( 0, 0,-1)
+6 I3.22-Sb1-I1.20  95.912( 0, 0, 0)( 0, 1, 0)
+7 I3.22-Sb1-I2.21  87.769( 0, 0, 0)( 0, 0,-1)
+8 I3.22-Sb1-I2.21 169.054( 0, 0, 0)( 0, 0, 0)
+9 I3.22-Sb1-I1.20  89.115( 0, 0, 0)( 0, 0,-1)
+10 I1.20-Sb1-I2.21 175.055( 0, 1, 0)( 0, 0,-1)
+11 I1.20-Sb1-I2.21  90.994( 0, 1, 0)( 0, 0, 0)
+12 I1.20-Sb1-I1.20  87.435( 0, 1, 0)( 0, 0,-1)
+13 I2.21-Sb1-I2.21  84.886( 0, 0,-1)( 0, 0, 0)
+14 I2.21-Sb1-I1.20  89.326( 0, 0,-1)( 0, 0,-1)
+15 I2.21-Sb1-I1.20  82.705( 0, 0, 0)( 0, 0,-1)
+
+Sphere packing (Class 1)
+
+1 I1-Sb1.19    2.9886(  0.4146  0.7557  0.0423)( 0,-1, 0)
+2 I1-Sb1.19    3.2761(  0.5854  0.2443  0.9577)( 0, 0,-1)
+
+Angles
+1 Sb1.19-I1-Sb1.19  92.565( 0,-1, 0)( 0, 0,-1)
+
+Sphere packing (Class 1)
+
+1 I2-Sb1.19    3.0683(  0.4146  0.7557  0.0423)( 0, 0, 1)
+2 I2-Sb1.19    3.2656(  0.5854  0.2443  0.9577)( 0, 0, 0)
+
+Angles
+1 Sb1.19-I2-Sb1.19  95.114( 0, 0, 1)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+1 I3-Sb1.19    2.8559(  0.4146  0.7557  0.0423)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 I4-Sb1.19    2.8385(  0.4146  0.7557  0.0423)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Sb - 4
+  I - 16
+
+Order
+Atom	Sb	I
+Sb1	Nan	0.48172
+I1	0.48172	Nan
+I2	0.48172	Nan
+I3	0.48172	Nan
+I4	0.48172	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Sb-I
+	0.00000
+
+CosDist(interatomic)
+Atom	Sb1	I1	I2	I3	I4	Total
+Sb1	Nan	Nan	Nan	Nan	Nan	Nan
+I1	Nan	Nan	Nan	Nan	Nan	Nan
+I2	Nan	Nan	Nan	Nan	Nan	Nan
+I3	Nan	Nan	Nan	Nan	Nan	Nan
+I4	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Sb-Sb	Sb-I	I-Sb	I-I
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 19.73 sec.

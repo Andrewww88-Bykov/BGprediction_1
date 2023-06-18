@@ -1,0 +1,90 @@
+#####################################
+151;RefCode:XUQQAB09:C5 H7 Cl4 N2 Sb1
+Author(s): A.Gagor
+Journal: Acta Crystallogr.,Sect.B:Struct.Sci.,Cryst.Eng. and Mat. Year: 2018 Volume: 74 Number:  Pages: 217
+#####################################
+A=  13.300  B=  12.660  C=   7.890
+Alpha=   90.00  Beta=  123.80  Gamma=   90.00
+Rmin= 0.0000  Rmax= 2.6699
+Epsilon=  1.0E+0000
+
+Distances
+1 Cl1-Sb1.33    2.3521(  0.5007  0.5725  0.7495)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Cl2-Sb1.33    2.4000(  0.5007  0.5725  0.7495)( 0, 0,-1)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Cl3-Sb1.33    2.6259(  0.5007  0.5725  0.7495)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Cl4-Sb1.33    2.6699(  0.5007  0.5725  0.7495)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Sb1-Cl1.29    2.3521(  0.3818  0.7009  0.5013)( 0, 0, 0)
+2 Sb1-Cl2.30    2.4000(  0.6215  0.7032  0.0037)( 0, 0, 1)
+3 Sb1-Cl3.31    2.6259(  0.6515  0.5792  0.6339)( 0, 0, 0)
+4 Sb1-Cl4.32    2.6699(  0.3442  0.5812  0.8601)( 0, 0, 0)
+
+Angles
+1 Cl1.29-Sb1-Cl2.30  92.665( 0, 0, 0)( 0, 0, 1)
+2 Cl1.29-Sb1-Cl3.31  88.742( 0, 0, 0)( 0, 0, 0)
+3 Cl1.29-Sb1-Cl4.32  87.603( 0, 0, 0)( 0, 0, 0)
+4 Cl2.30-Sb1-Cl3.31  88.978( 0, 0, 1)( 0, 0, 0)
+5 Cl2.30-Sb1-Cl4.32  88.816( 0, 0, 1)( 0, 0, 0)
+6 Cl3.31-Sb1-Cl4.32 175.639( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Cl - 16
+  Sb - 4
+
+Order
+Atom	Cl	Sb
+Cl1	Nan	0.51248
+Cl2	Nan	0.51248
+Cl3	Nan	0.51248
+Cl4	Nan	0.51248
+Sb1	0.51248	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Cl-Sb
+	0.00000
+
+CosDist(interatomic)
+Atom	Cl1	Cl2	Cl3	Cl4	Sb1	Total
+Cl1	Nan	Nan	Nan	Nan	Nan	Nan
+Cl2	Nan	Nan	Nan	Nan	Nan	Nan
+Cl3	Nan	Nan	Nan	Nan	Nan	Nan
+Cl4	Nan	Nan	Nan	Nan	Nan	Nan
+Sb1	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Cl-Cl	Cl-Sb	Sb-Cl	Sb-Sb
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 16.38 sec.

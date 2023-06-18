@@ -1,0 +1,105 @@
+#######################################
+140;RefCode:XIGNUY:C4 H10 Br4 N1 O1 Sb1
+Author(s): M.Owczarek,R.Jakubas,A.Pietraszko,W.Medycki,Jan Baran
+Journal: DALTON TRANS. Year: 2013 Volume: 42 Number:  Pages: 15069
+#######################################
+A=  12.273  B=   8.397  C=  23.276
+Alpha=   90.00  Beta=   90.00  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.3265
+Epsilon=  1.0E+0000
+
+Distances
+1 Br1-Sb1.21    2.6556(  0.6690  0.4662  0.3711)( 0, 0, 0)
+2 Br1-Sb1.21    3.3265(  0.8310  0.9662  0.3711)( 0,-1, 0)
+
+Angles
+1 Sb1.21-Br1-Sb1.21 101.289( 0, 0, 0)( 0,-1, 0)
+
+Sphere packing (Class 1)
+
+1 Br2-Sb1.21    3.0112(  0.6690  0.4662  0.3711)( 0, 0, 0)
+2 Br2-Sb1.21    3.2042(  0.8310  0.9662  0.3711)( 0, 0, 0)
+
+Angles
+1 Sb1.21-Br2-Sb1.21  96.671( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+1 Br3-Sb1.21    2.5448(  0.6690  0.4662  0.3711)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Br4-Sb1.21    2.5773(  0.6690  0.4662  0.3711)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Sb1-Br3.19    2.5448(  0.5388  0.3319  0.4410)( 0, 0, 0)
+2 Sb1-Br4.20    2.5773(  0.5114  0.5745  0.3092)( 0, 0, 0)
+3 Sb1-Br1.17    2.6556(  0.6770  0.2226  0.2984)( 0, 0, 0)
+4 Sb1-Br2.18    3.0112(  0.6515  0.7674  0.4407)( 0, 0, 0)
+5 Sb1-Br2.18    3.2042(  0.8485  0.2674  0.4407)( 0, 0, 0)
+6 Sb1-Br1.17    3.3265(  0.8230  0.7226  0.2984)( 0, 0, 0)
+
+Angles
+1 Br3.19-Sb1-Br4.20  92.422( 0, 0, 0)( 0, 0, 0)
+2 Br3.19-Sb1-Br1.17  95.099( 0, 0, 0)( 0, 0, 0)
+3 Br3.19-Sb1-Br2.18  89.023( 0, 0, 0)( 0, 0, 0)
+4 Br3.19-Sb1-Br2.18  82.961( 0, 0, 0)( 0, 0, 0)
+5 Br3.19-Sb1-Br1.17 165.640( 0, 0, 0)( 0, 0, 0)
+6 Br4.20-Sb1-Br1.17  86.757( 0, 0, 0)( 0, 0, 0)
+7 Br4.20-Sb1-Br2.18  87.179( 0, 0, 0)( 0, 0, 0)
+8 Br4.20-Sb1-Br2.18 169.245( 0, 0, 0)( 0, 0, 0)
+9 Br4.20-Sb1-Br1.17  85.070( 0, 0, 0)( 0, 0, 0)
+10 Br1.17-Sb1-Br2.18 172.804( 0, 0, 0)( 0, 0, 0)
+11 Br1.17-Sb1-Br2.18  83.998( 0, 0, 0)( 0, 0, 0)
+12 Br1.17-Sb1-Br1.17  98.865( 0, 0, 0)( 0, 0, 0)
+13 Br2.18-Sb1-Br2.18 102.394( 0, 0, 0)( 0, 0, 0)
+14 Br2.18-Sb1-Br1.17  76.745( 0, 0, 0)( 0, 0, 0)
+15 Br2.18-Sb1-Br1.17 101.756( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 40
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Br - 32
+  Sb - 8
+
+Order
+Atom	Br	Sb
+Br1	Nan	0.50545
+Br2	Nan	0.50545
+Br3	Nan	0.50545
+Br4	Nan	0.50545
+Sb1	0.50545	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Br-Sb
+	0.00000
+
+CosDist(interatomic)
+Atom	Br1	Br2	Br3	Br4	Sb1	Total
+Br1	Nan	Nan	Nan	Nan	Nan	Nan
+Br2	Nan	Nan	Nan	Nan	Nan	Nan
+Br3	Nan	Nan	Nan	Nan	Nan	Nan
+Br4	Nan	Nan	Nan	Nan	Nan	Nan
+Sb1	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Br-Br	Br-Sb	Sb-Br	Sb-Sb
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 12.17 sec.

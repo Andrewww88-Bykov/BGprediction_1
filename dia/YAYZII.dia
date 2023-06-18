@@ -1,0 +1,87 @@
+####################################
+153;RefCode:YAYZII:C18 H19 Bi1 I4 N4
+Author(s): Yun-Yin Niu,Ning Zhang,Hong-Wei Hou,Seik Weng Ng
+Journal: ACTA CRYSTALLOGR.,SECT.E:STRUCT.REP.ONLINE Year: 2005 Volume: 61 Number:  Pages: m2534
+####################################
+A=  19.900  B=  16.809  C=   7.660
+Alpha=   90.00  Beta=  106.23  Gamma=   90.00
+Rmin= 0.0000  Rmax= 3.2644
+Epsilon=  1.0E+0000
+
+Distances
+1 I1-Bi1.24    3.0785(  0.5000  0.5751  0.7500)( 0, 0,-1)
+2 I1-Bi1.24    3.2644(  0.5000  0.4249  0.2500)( 0, 0, 0)
+
+Angles
+1 Bi1.24-I1-Bi1.24  92.609( 0, 0,-1)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+1 I2-Bi1.24    2.9151(  0.5000  0.5751  0.7500)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Bi1-I2.23     2.9151(  0.5882  0.6946  0.9803)( 0, 0, 0)
+2 Bi1-I2.23     2.9151(  0.4118  0.6946  0.5197)( 0, 0, 0)
+3 Bi1-I1.22     3.0785(  0.5945  0.5656  0.4938)( 0, 0, 0)
+4 Bi1-I1.22     3.0785(  0.4055  0.5656  0.0062)( 0, 0, 1)
+5 Bi1-I1.22     3.2644(  0.5945  0.4344  0.9938)( 0, 0, 0)
+6 Bi1-I1.22     3.2644(  0.4055  0.4344  0.5062)( 0, 0, 0)
+
+Angles
+1 I2.23-Bi1-I2.23  92.869( 0, 0, 0)( 0, 0, 0)
+2 I2.23-Bi1-I1.22  92.863( 0, 0, 0)( 0, 0, 0)
+3 I2.23-Bi1-I1.22  91.248( 0, 0, 0)( 0, 0, 1)
+4 I2.23-Bi1-I1.22  90.006( 0, 0, 0)( 0, 0, 0)
+5 I2.23-Bi1-I1.22 177.108( 0, 0, 0)( 0, 0, 0)
+6 I2.23-Bi1-I1.22  91.248( 0, 0, 0)( 0, 0, 0)
+7 I2.23-Bi1-I1.22  92.863( 0, 0, 0)( 0, 0, 1)
+8 I2.23-Bi1-I1.22 177.108( 0, 0, 0)( 0, 0, 0)
+9 I2.23-Bi1-I1.22  90.006( 0, 0, 0)( 0, 0, 0)
+10 I1.22-Bi1-I1.22 174.034( 0, 0, 0)( 0, 0, 1)
+11 I1.22-Bi1-I1.22  88.287( 0, 0, 0)( 0, 0, 0)
+12 I1.22-Bi1-I1.22  87.391( 0, 0, 0)( 0, 0, 0)
+13 I1.22-Bi1-I1.22  87.391( 0, 0, 1)( 0, 0, 0)
+14 I1.22-Bi1-I1.22  88.287( 0, 0, 1)( 0, 0, 0)
+15 I1.22-Bi1-I1.22  87.122( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 20
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  I - 16
+  Bi - 4
+
+Order
+Atom	I	Bi
+I1	Nan	0.63415
+I2	Nan	0.63415
+Bi1	0.44841	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	I-Bi
+	0.00000
+
+CosDist(interatomic)
+Atom	I1	I2	Bi1	Total
+I1	Nan	Nan	Nan	Nan
+I2	Nan	Nan	Nan	Nan
+Bi1	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	I-I	I-Bi	Bi-I	Bi-Bi
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 14.36 sec.

@@ -1,0 +1,105 @@
+########################################
+127;RefCode:TIFXIQ:C13 H13 Cl4 N2 O1 Sb1
+Author(s): Jun Zhai,Handong Yin,Feng Li,Daqi Wang
+Journal: ACTA CRYSTALLOGR.,SECT.E:STRUCT.REP.ONLINE Year: 2007 Volume: 63 Number:  Pages: m2165
+########################################
+A=   7.523  B=  10.034  C=  12.393
+Alpha=   78.24  Beta=   73.27  Gamma=   73.75
+Rmin= 0.0000  Rmax= 3.2492
+Epsilon=  1.0E+0000
+
+Distances
+1 Cl1-Sb1.34    2.5375(  0.6894  0.5764  0.5598)( 0, 0, 0)
+2 Cl1-Sb1.34    3.2492(  0.3106  0.4236  0.4402)( 1, 0, 0)
+
+Angles
+1 Sb1.34-Cl1-Sb1.34  98.100( 0, 0, 0)( 1, 0, 0)
+
+Sphere packing (Class 1)
+
+1 Cl2-Sb1.34    2.7890(  0.6894  0.5764  0.5598)( 0, 0, 0)
+2 Cl2-Sb1.34    3.0184(  0.3106  0.4236  0.4402)( 0, 0, 0)
+
+Angles
+1 Sb1.34-Cl2-Sb1.34  95.377( 0, 0, 0)( 0, 0, 0)
+
+Sphere packing (Class 1)
+
+1 Cl3-Sb1.34    2.3970(  0.6894  0.5764  0.5598)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Cl4-Sb1.34    2.4248(  0.6894  0.5764  0.5598)( 0, 0, 0)
+
+Angles
+
+Sphere packing (Class 1)
+
+1 Sb1-Cl3.32    2.3970(  0.4618  0.7980  0.5572)( 0, 0, 0)
+2 Sb1-Cl4.33    2.4248(  0.7200  0.5818  0.7482)( 0, 0, 0)
+3 Sb1-Cl1.30    2.5375(  0.9586  0.6996  0.4661)( 0, 0, 0)
+4 Sb1-Cl2.31    2.7890(  0.3883  0.4457  0.6609)( 0, 0, 0)
+5 Sb1-Cl2.31    3.0184(  0.6117  0.5543  0.3391)( 0, 0, 0)
+6 Sb1-Cl1.30    3.2492(  0.0414  0.3004  0.5339)( 1, 0, 0)
+
+Angles
+1 Cl3.32-Sb1-Cl4.33  93.243( 0, 0, 0)( 0, 0, 0)
+2 Cl3.32-Sb1-Cl1.30  89.950( 0, 0, 0)( 0, 0, 0)
+3 Cl3.32-Sb1-Cl2.31  88.979( 0, 0, 0)( 0, 0, 0)
+4 Cl3.32-Sb1-Cl2.31  86.393( 0, 0, 0)( 0, 0, 0)
+5 Cl3.32-Sb1-Cl1.30 171.357( 0, 0, 0)( 1, 0, 0)
+6 Cl4.33-Sb1-Cl1.30  91.931( 0, 0, 0)( 0, 0, 0)
+7 Cl4.33-Sb1-Cl2.31  88.604( 0, 0, 0)( 0, 0, 0)
+8 Cl4.33-Sb1-Cl2.31 173.222( 0, 0, 0)( 0, 0, 0)
+9 Cl4.33-Sb1-Cl1.30  89.919( 0, 0, 0)( 1, 0, 0)
+10 Cl1.30-Sb1-Cl2.31 178.828( 0, 0, 0)( 0, 0, 0)
+11 Cl1.30-Sb1-Cl2.31  94.836( 0, 0, 0)( 0, 0, 0)
+12 Cl1.30-Sb1-Cl1.30  81.900( 0, 0, 0)( 1, 0, 0)
+13 Cl2.31-Sb1-Cl2.31  84.623( 0, 0, 0)( 0, 0, 0)
+14 Cl2.31-Sb1-Cl1.30  99.145( 0, 0, 0)( 1, 0, 0)
+15 Cl2.31-Sb1-Cl1.30  91.408( 0, 0, 0)( 1, 0, 0)
+
+Sphere packing (Class 1)
+
+FingerPrints
+NumAtCell = 10
+Delta=5.000
+Sigma=0.000
+Rmax=0.000
+NumBins=0
+NumIons
+  Cl - 8
+  Sb - 2
+
+Order
+Atom	Cl	Sb
+Cl1	Nan	0.47669
+Cl2	Nan	0.47669
+Cl3	Nan	0.47669
+Cl4	Nan	0.47669
+Sb1	0.47669	Nan
+
+Total local order: Nan
+Total global order: Nan
+
+CosDist(interspecies)
+Atom	Cl-Sb
+	0.00000
+
+CosDist(interatomic)
+Atom	Cl1	Cl2	Cl3	Cl4	Sb1	Total
+Cl1	Nan	Nan	Nan	Nan	Nan	Nan
+Cl2	Nan	Nan	Nan	Nan	Nan	Nan
+Cl3	Nan	Nan	Nan	Nan	Nan	Nan
+Cl4	Nan	Nan	Nan	Nan	Nan	Nan
+Sb1	Nan	Nan	Nan	Nan	Nan	Nan
+
+Total CosDist: Nan
+
+All species
+Dist.	Cl-Cl	Cl-Sb	Sb-Cl	Sb-Sb
+0.00	-1.00000	Nan	Nan	-1.00000
+!!!ERROR: It is impossible the calculate of angles FingerPrints by Delta equal to zerro.
+Elapsed time: 32.53 sec.
